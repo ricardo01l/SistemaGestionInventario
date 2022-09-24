@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4E6CB753-3C4F-4916-AD82-F6E370893720}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>presentacion.My.MyApplication</StartupObject>
+    <RootNamespace>presentacion</RootNamespace>
+    <AssemblyName>Gestión de Inventarios</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Gestión de Inventarios.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Gestión de Inventarios.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>Gestión de Inventarios.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>Gestión de Inventarios.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>
+    </NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Gestión de Inventarios.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Gestión de Inventarios.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>
+    </NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas\consultaInvGeneral.Designer.vb">
+      <DependentUpon>consultaInvGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\consultaInvGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\consultaInvVent.Designer.vb">
+      <DependentUpon>consultaInvVent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\consultaInvVent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\consultaProducto.Designer.vb">
+      <DependentUpon>consultaProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\consultaProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\consultaInvCompr.Designer.vb">
+      <DependentUpon>consultaInvCompr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\consultaInvCompr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\consultaUsuario.Designer.vb">
+      <DependentUpon>consultaUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\consultaUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fformas.vb" />
+    <Compile Include="Inventarios\Informes\InformeInvVent.Designer.vb">
+      <DependentUpon>InformeInvVent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventarios\Informes\InformeInvVent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventarios\Informes\InformeInvCompr.Designer.vb">
+      <DependentUpon>InformeInvCompr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventarios\Informes\InformeInvCompr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventarios\inventarioCompra.Designer.vb">
+      <DependentUpon>inventarioCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventarios\inventarioCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventarios\inventarioGeneral.Designer.vb">
+      <DependentUpon>inventarioGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventarios\inventarioGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventarios\inventarioVenta.Designer.vb">
+      <DependentUpon>inventarioVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventarios\inventarioVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\baseDatos.Designer.vb">
+      <DependentUpon>baseDatos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Otros\baseDatos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\producto.Designer.vb">
+      <DependentUpon>producto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Otros\producto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\usuario.Designer.vb">
+      <DependentUpon>usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Otros\usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Consultas\consultaInvCompr.resx">
+      <DependentUpon>consultaInvCompr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\consultaInvGeneral.resx">
+      <DependentUpon>consultaInvGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\consultaInvVent.resx">
+      <DependentUpon>consultaInvVent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\consultaProducto.resx">
+      <DependentUpon>consultaProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\consultaUsuario.resx">
+      <DependentUpon>consultaUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventarios\Informes\InformeInvVent.resx">
+      <DependentUpon>InformeInvVent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventarios\Informes\InformeInvCompr.resx">
+      <DependentUpon>InformeInvCompr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventarios\inventarioCompra.resx">
+      <DependentUpon>inventarioCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventarios\inventarioGeneral.resx">
+      <DependentUpon>inventarioGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventarios\inventarioVenta.resx">
+      <DependentUpon>inventarioVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros\baseDatos.resx">
+      <DependentUpon>baseDatos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros\producto.resx">
+      <DependentUpon>producto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros\usuario.resx">
+      <DependentUpon>usuario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\datos\datos.vbproj">
+      <Project>{0D43653D-EEBC-4697-9AE4-4FA1C5518B2A}</Project>
+      <Name>datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\entidad\entidad.vbproj">
+      <Project>{740C7FCE-EF73-40BA-8B24-DA4CABE6601B}</Project>
+      <Name>entidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

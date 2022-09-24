@@ -1,0 +1,32 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.consultaInvCompr.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.consultaInvGeneral.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.consultaInvVent.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.consultaProducto.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.consultaUsuario.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.InformeInvVent.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.InformeInvCompr.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.inventarioCompra.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.inventarioGeneral.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.inventarioVenta.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.baseDatos.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.producto.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.usuario.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.login.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\presentacion.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\Gestión de Inventarios.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\Gestión de Inventarios.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\x64\Debug\Gestión de Inventarios.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\Gestión de Inventarios.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\Gestión de Inventarios.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\Gestión de Inventarios.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\itextsharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\x64\Debug\itextsharp.xml

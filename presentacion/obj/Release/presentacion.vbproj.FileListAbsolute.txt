@@ -1,0 +1,32 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\Gestión de Inventarios.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\Gestión de Inventarios.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\Gestión de Inventarios.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\itextsharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\bin\Release\itextsharp.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.consultaInvCompr.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.consultaInvGeneral.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.consultaInvVent.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.consultaProducto.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.consultaUsuario.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.InformeInvVent.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.InformeInvCompr.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.inventarioCompra.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.inventarioGeneral.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.inventarioVenta.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.baseDatos.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.producto.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.usuario.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.login.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\presentacion.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\Gestión de Inventarios.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\Gestión de Inventarios.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\presentacion\obj\Release\Gestión de Inventarios.pdb

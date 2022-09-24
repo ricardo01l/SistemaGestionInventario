@@ -1,0 +1,17 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\datos.dll.config
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\itextsharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\itextsharp.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\obj\x64\Debug\datos.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\obj\x64\Debug\datos.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\obj\x64\Debug\datos.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\obj\x64\Debug\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\obj\x64\Debug\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\obj\x64\Debug\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\datos\bin\x64\Debug\netstandard.dll
